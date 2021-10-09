@@ -35,6 +35,8 @@ https://www.kaggle.com/uciml/sms-spam-collection-dataset
          
    Model trained using Naive-Bayes Classifer 
    
+   Finally Testing the model with custom mail
+   
    
 # Future Work
 
