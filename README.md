@@ -1,4 +1,4 @@
-# Spam e-mail Classifier using Naive Bayes
+# Spam mail Classifier using Naive Bayes
 
 In this particular project , We classify mails as spam and ham using Natural Language Processing
 
